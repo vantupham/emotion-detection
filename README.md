@@ -5,7 +5,7 @@
 
 - Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
-- Display Vietnamese on Opencv's window.
+- Display Vietnamese in Opencv's window.
 
 ## Please do refer for better understanding.
 
