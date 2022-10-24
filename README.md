@@ -1,4 +1,5 @@
 # Emotion Detection using AI
+![Screenshot](emotion.png)
 
 ## Emotion Detection
 
